@@ -2,7 +2,7 @@
 ## Introdução
 Projeto feito nos estudos de Javascript com o objetivo de desenvolver habilidades na Linguagem.
 * A lâmpada é ligada ao passar o cursor do mouse em cima da imagem e desligada ao tirar o cursor de cima da imagem.
-* Pode ser ligada e desligada nos botões
+* Pode ser ligada e desligada nos botões.
 * Pode ser quebrada com 2 cliques em cima da imagem de Lâmpada.
 
 
