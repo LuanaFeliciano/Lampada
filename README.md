@@ -1,7 +1,7 @@
 <img width="100px" height="100px" align="right" src="https://user-images.githubusercontent.com/98564118/156263065-ef953413-4cdd-4894-93ec-6459cb7715c2.png">  <h1 align="center"> Lâmpada com Javascript </h1>
 ## Introdução
 Projeto feito nos estudos de Javascript com o objetivo de desenvolver habilidades na Linguagem.
-* Lâmpada é ligada ao passar o cursor do mouse em cima da imagem e desligada ao tirar o cursor de cima da imagem.
+* A lâmpada é ligada ao passar o cursor do mouse em cima da imagem e desligada ao tirar o cursor de cima da imagem.
 * Pode ser ligada e desligada nos botões
 * Pode ser quebrada com 2 cliques em cima da imagem de Lâmpada.
 
