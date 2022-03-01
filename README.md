@@ -1,4 +1,4 @@
-<img width="100px" height="100px" align="right" src="https://user-images.githubusercontent.com/98564118/156263065-ef953413-4cdd-4894-93ec-6459cb7715c2.png">  <h1 align="center"> Calculadora Simples no Python </h1>
+<img width="100px" height="100px" align="right" src="https://user-images.githubusercontent.com/98564118/156263065-ef953413-4cdd-4894-93ec-6459cb7715c2.png">  <h1 align="center"> Lâmpada com Javascript </h1>
 ## Introdução
 Projeto feito nos estudos de Javascript com o objetivo de desenvolver habilidades na Linguagem.
 * Lâmpada é ligada ao passar o cursor do mouse em cima da imagem e desligada ao tirar o cursor de cima da imagem.
@@ -7,8 +7,8 @@ Projeto feito nos estudos de Javascript com o objetivo de desenvolver habilidade
 
 
 ## Techs
-* [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/): Linguagem de programação interpretada estruturada, de script. Com o JS, você pode mostrar mensagens e outras informações interessantes, fazer verificações
-  ou mudar dinamicamente a apresentação visual das páginas.
+* [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/): Linguagem de programação interpretada estruturada, de script. Com o JS, você pode mostrar mensagens e outras informações interessantes, fazer verificações ou mudar dinamicamente a apresentação visual das páginas.
+* [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS/): Código usado para dar estilo à página Web.  
 
 
 ## Demostração do Projeto!
